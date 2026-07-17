@@ -1,4 +1,5 @@
 <div align="center">
+</div>
 # MAZE
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
@@ -9,7 +10,7 @@
 
 ![Made by Maze](https://img.shields.io/badge/Made%20by-Maze-red)
 > maze always knows.
-
+</div>
 # MAZE 🖤
 
 ### Unknown paths. Endless creation.
