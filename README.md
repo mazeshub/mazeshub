@@ -8,9 +8,7 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
 
-![Status](https://img.shields.io/badge/Status-Learning-orange)
-
-![Made by Maze](https://img.shields.io/badge/Made%20by-Maze-red) <br>
+![Status](https://img.shields.io/badge/Status-Learning-orange) <br> ![Made by Maze](https://img.shields.io/badge/Made%20by-Maze-red) <br>
 maze always knows. 
 </div>
 # MAZE 🖤
