@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header"/>
+
 <div align="center">
 
  # MAZE
@@ -63,10 +65,5 @@ I enjoy creating clean, modern and useful projects while improving my skills eve
 <div align="center">
 
 Made with 🖤 by **MAZE**
-
-</div>
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mazeshub&show_icons=true&theme=github_dark&hide_border=true"/>
 
 </div>
