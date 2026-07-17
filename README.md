@@ -10,8 +10,8 @@
 
 ![Status](https://img.shields.io/badge/Status-Learning-orange)
 
-![Made by Maze](https://img.shields.io/badge/Made%20by-Maze-red) 
-maze always knows. <br>
+![Made by Maze](https://img.shields.io/badge/Made%20by-Maze-red) <br>
+maze always knows. 
 </div>
 # MAZE 🖤
 
