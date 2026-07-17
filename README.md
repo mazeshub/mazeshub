@@ -67,6 +67,6 @@ Made with 🖤 by **MAZE**
 </div>
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mazeshub&show_icons=true&theme=github_dark&hide_border=true"/>
 
 </div>
