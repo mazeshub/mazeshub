@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mazeshub/mazeshub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# MAZE 🖤
 
-Here are some ideas to get you started:
+### Unknown paths. Endless creation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 👋 About Me
+
+I'm currently learning and building projects in:
+
+- 🐍 Python
+- 🌐 Web Development
+- 🛡️ Cybersecurity
+
+I enjoy creating clean, modern and useful projects while improving my skills every day.
+
+---
+
+## 🎯 Current Goals
+
+- Build real-world projects
+- Improve Python skills
+- Learn modern web technologies
+- Explore cybersecurity
+- Grow as a developer
+
+---
+
+## 🚀 Current Stack
+
+- Python
+- HTML
+- CSS
+- Git
+- GitHub
+- Visual Studio Code
+
+---
+
+## 📌 Philosophy
+
+> Stay curious.  
+> Build consistently.  
+> Keep improving.
+
+---
+
+<div align="center">
+
+Made with 🖤 by **MAZE**
+
+</div>
