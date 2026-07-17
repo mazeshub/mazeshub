@@ -4,11 +4,7 @@
 
  # MAZE
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
-
-![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
-
-![Status](https://img.shields.io/badge/Status-Learning-orange) <br> ![Made by Maze](https://img.shields.io/badge/Made%20by-Maze-red) <br>
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)<br> ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)<br> ![Status](https://img.shields.io/badge/Status-Learning-orange) <br> ![Made by Maze](https://img.shields.io/badge/Made%20by-Maze-red) <br>
 maze always knows. 
 </div>
 # MAZE 🖤
