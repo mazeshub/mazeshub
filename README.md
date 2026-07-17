@@ -1,5 +1,15 @@
 <div align="center">
+# MAZE
 
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
+
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)
+
+![Status](https://img.shields.io/badge/Status-Learning-orange)
+
+![Made by Maze](https://img.shields.io/badge/Made%20by-Maze-red)
+
+> maze always knows.
 # MAZE 🖤
 
 ### Unknown paths. Endless creation.
