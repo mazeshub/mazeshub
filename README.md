@@ -10,6 +10,17 @@
 ![Made by Maze](https://img.shields.io/badge/Made%20by-Maze-red)
 
 > maze always knows.
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=mazeshub&show_icons=true&theme=dark&hide_border=true&bg_color=000000" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazeshub&layout=compact&theme=dark&hide_border=true&bg_color=000000" />
+
+</div>
 # MAZE 🖤
 
 ### Unknown paths. Endless creation.
